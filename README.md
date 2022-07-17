@@ -1,5 +1,5 @@
 # docker-dpp
-D++ docker development environment
+D++ docker development environment with g++ 12, cmake 3.22.1, gnu make 4.3 on ubuntu 22.04.
 
 The `data` directory is the home directory of the `build` user within the container.
 
