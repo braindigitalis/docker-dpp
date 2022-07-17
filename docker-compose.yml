@@ -2,7 +2,7 @@ version: '2.0'
 
 services:
   dpp:
-    build: .
+    image: braindigitalis/dpp_dpp
     restart: always
     ports:
       - '220:22'
